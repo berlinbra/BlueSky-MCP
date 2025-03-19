@@ -31,7 +31,7 @@ A Model Context Protocol (MCP) server that provides access to [BlueSky](https://
             "--directory",
             "C:\\Users\\{INSERT_USER}\\YOUR\\PATH\\TO\\bluesky-mcp\\bluesky-mcp",
             "run",
-            "src/bluesky_mcp/bluesky-mcp"
+            "src/bluesky_mcp/server.py"
             ],
             "env": {
                 "BLUESKY_IDENTIFIER": "your.handle.bsky.social",
